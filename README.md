@@ -4,7 +4,6 @@ karaoke_subtitle
 卡拉OK伴奏字幕
 
 youtube 影片
-
 [![youtube 影片](http://img.youtube.com/vi/sb7fMGa9K2o/0.jpg)](http://www.youtube.com/watch?v=sb7fMGa9K2o)
 
 說明

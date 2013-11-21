@@ -5,7 +5,7 @@ karaoke_subtitle
 
 youtube 影片
 
-[![youtube 影片](http://img.youtube.com/vi/nFlX8BmijnY/0.jpg)](http://www.youtube.com/watch?v=nFlX8BmijnY)
+[![youtube 影片](http://img.youtube.com/vi/sb7fMGa9K2o/0.jpg)](http://www.youtube.com/watch?v=sb7fMGa9K2o)
 
 說明
 
